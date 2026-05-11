@@ -1,6 +1,6 @@
 ---
-title: Inquires
-description: "Inquires"
+title: Inquiries
+description: "Inquiries"
 ---
 
 
